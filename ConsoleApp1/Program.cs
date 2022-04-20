@@ -7,6 +7,12 @@ namespace Test
         {
             System.Console.WriteLine("Hello World");
             System.Console.WriteLine("Hello World2");
+            
+            фіват  
+                 
+                
+                 і
+                вафі
         }
     }
 }
